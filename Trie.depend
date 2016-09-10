@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473493306 source:c:\documents and settings\venkat\desktop\trie\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+
+1473491635 c:\documents and settings\venkat\desktop\trie\trie.h
+	<iostream>
+
